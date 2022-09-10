@@ -7,3 +7,23 @@
 5. https://codeforces.com/contest/723/submission/171051693
 6. https://codeforces.com/contest/1352/submission/171055653
 7. https://codeforces.com/contest/510/submission/171059278
+8. https://codeforces.com/contest/785/submission/171327359
+9. https://codeforces.com/contest/144/submission/171332947
+10. https://codeforces.com/contest/1030/submission/171334152
+11. https://codeforces.com/contest/136/submission/171338191
+12. https://codeforces.com/contest/110/submission/171341060
+13. https://codeforces.com/contest/116/submission/171341808
+14. https://codeforces.com/contest/977/submission/171556254
+15. https://codeforces.com/contest/546/submission/171556386
+16. https://codeforces.com/contest/791/submission/171556571
+17. https://codeforces.com/contest/236/submission/171556818
+18. https://codeforces.com/contest/281/submission/171557007
+19. https://codeforces.com/contest/339/submission/171557246
+20. https://codeforces.com/contest/1368/submission/171557493
+21. https://codeforces.com/contest/702/submission/171557850
+22. https://codeforces.com/contest/1097/submission/171558227
+23. https://codeforces.com/contest/492/submission/171558694
+24. https://codeforces.com/contest/1433/submission/171559230
+25. https://codeforces.com/contest/1303/submission/171559743
+26. https://codeforces.com/contest/1095/submission/171564134
+27. 

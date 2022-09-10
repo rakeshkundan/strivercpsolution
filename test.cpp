@@ -2,31 +2,33 @@
 using namespace std;
 int main()
 {
-    int n;
-    cin>>n;
-    vector<vector<string> >v(n);
-    for(int i=0;i<n;i++)
+    int t;
+    cin>>t;
+    while(t--)
     {
-        string temp;
-        cin>>temp;
-        
-    }
-    int sum=0;
-    for(int i=0;i<n;i++)
-    {
-        if(v[i]=="Tetrahedron")
+        int n;
+        cin>>n;
+        int arr[n];
+        for(int i=0;i<n;i++)
+        cin>>arr[i];
+
+        int mxx=arr[n-1]-arr[0];
+        int temp=0;
+        int temp2=INT_MAX;
+        for(int i=0;i<n;i++)
         {
-            sum+=4;
+            temp=max(temp,arr[i]);
+            temp2=min(temp2,arr[i]);
+
         }
-        // else if(v[i][0]=='C')
-        // sum+=6;
-        // else if(v[i][0]=='O')
-        // sum+=8;
-        // else if(v[i][0]=='D')
-        // sum+=12;
-        // else
-        // sum+=20;
+        mxx=max(arr[n-1]-temp2,mxx);
+        mxx=max(temp-arr[0],mxx);
+        for(int i=n-1;i>0;i--)
+        {
+            mxx=max((arr[i-1]-arr[i]),mxx);
+        }
+        cout<<mxx<<endl;
+
     }
-    cout<<sum<<endl;
     return 0;
 }

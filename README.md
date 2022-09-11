@@ -26,4 +26,4 @@
 24. https://codeforces.com/contest/1433/submission/171559230
 25. https://codeforces.com/contest/1303/submission/171559743
 26. https://codeforces.com/contest/1095/submission/171564134
-27. 
+27. https://codeforces.com/contest/1391/submission/171668121
